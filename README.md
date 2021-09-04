@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bhaumik
+- 👀 I’m interested in java technologies
+- 🌱 I’m currently learning react 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me bhaumik1992@gmail.com
